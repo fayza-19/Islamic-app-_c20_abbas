@@ -1,9 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:islami20/features/mainlayout/main_layout.dart';
+import 'package:islami20/features/quran_features/sura_details.dart';
 
 abstract class RoutesManager {
   static const String mainlayout = "/mainlayout";
-   static  Map<String , WidgetBuilder> routes ={
-    mainlayout : (context) => MainLayout()
+  static const String suradetails = "/suradetails";
+
+  static  Map<String , WidgetBuilder> routes ={
+    mainlayout : (context) => MainLayout(),
+    suradetails : (context) => SuraDetails(),
+
   };
 }

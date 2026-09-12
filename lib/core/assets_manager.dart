@@ -1,6 +1,14 @@
 abstract class ImageAssets{
   static const String base = "assets/images/";
-  static const String islamiLogo = "${base}splash.png";
+  static const String quranTabbg = "${base}Background.png";
+  static const String islamilogo = "${base}islamilogo.png";
+  static const String mostrecentcardwidget = "${base}mostrecentcardwidget.png";
+  static const String suranumberframe = "${base}suranumber.png";
+  static const String rightcorner = "${base}img_right_corner.png";
+  static const String leftcorner = "${base}img_left_corner.png";
+  static const String bottomdecoration= "${base}img_bottom_decoration.png";
+
+
 
 
 }
