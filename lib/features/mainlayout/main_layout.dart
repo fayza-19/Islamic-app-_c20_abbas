@@ -17,7 +17,7 @@ class _MainLayoutState extends State<MainLayout> {
   List<Widget> tabs = [
     Qurantab(),
    Hadithtab(),
-  Sebhatab(),
+  SebhaTab(),
   Timetab(),
   Radiotab()
 

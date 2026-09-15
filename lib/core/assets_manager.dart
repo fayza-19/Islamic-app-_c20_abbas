@@ -8,6 +8,7 @@ abstract class ImageAssets{
   static const String leftcorner = "${base}img_left_corner.png";
   static const String bottomdecoration= "${base}img_bottom_decoration.png";
   static const String hadithTabbg = "${base}hadithBackground.png";
+  static const String sebhaTabbg = "${base}Backgroundsebha.png";
 
 
 

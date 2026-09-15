@@ -42,8 +42,6 @@ class ThemeManager{
 
       )
   );
-  static ThemeData dark = ThemeData(
-
-  );
+  static ThemeData dark = ThemeData();
 
 }
