@@ -9,6 +9,12 @@ abstract class ImageAssets{
   static const String bottomdecoration= "${base}img_bottom_decoration.png";
   static const String hadithTabbg = "${base}hadithBackground.png";
   static const String sebhaTabbg = "${base}Backgroundsebha.png";
+  static const String doaa = "${base}doaa.png";
+  static const String masged = "${base}masged.png";
+  static const String norhbbekom = "${base}norhbbekom.png";
+  static const String quran = "${base}quran.png";
+  static const String radio = "${base}radio.png";
+
 
 
 
